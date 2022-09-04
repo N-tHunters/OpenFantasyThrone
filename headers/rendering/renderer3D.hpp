@@ -1,6 +1,12 @@
 #ifndef RENDERER3D
 #define RENDERER3D
 
+// std includes
+#include <vector>
+
+// local includes
+#include <rendering/objects/mesh.hpp>
+
 /**
  * @brief      Singleton object for handling 3d rendering.
  */
